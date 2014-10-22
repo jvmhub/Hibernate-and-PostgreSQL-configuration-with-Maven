@@ -19,7 +19,7 @@
 			<version>${hibernate.version}</version>
 		</dependency>
 
-		<!-- The tutorials use the PostgreSQL 9.1.7 database -->
+		<!-- The tutorials use the PostgreSQL 9.3.5 database -->
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
